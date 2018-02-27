@@ -12,6 +12,6 @@ TAOtoDME.au3 - Main program.
 
 CONTACT
 
-Author: richard_bruna@nm.cz<br>
+Author: richard.bruna@protonmail.com<br>
 Source: https://github.com/KyomaHooin/TAOtoDME
 
