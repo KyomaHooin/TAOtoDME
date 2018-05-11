@@ -10,7 +10,7 @@ FILE
 TAOtoDME.au3 - Main program.
 </pre>
 
-CONTACT
+SOURCE
 
-Source: https://github.com/KyomaHooin/TAOtoDME
+https://github.com/KyomaHooin/TAOtoDME
 
